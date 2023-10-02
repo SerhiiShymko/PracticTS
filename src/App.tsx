@@ -1,7 +1,8 @@
+import Practic from "./Practic/Practic";
 
 function App() {
   return (
-   <h1>Hello</h1>
+   <Practic />
   );
 }
 
